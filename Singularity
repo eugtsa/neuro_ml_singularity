@@ -32,4 +32,5 @@ From: neurodebian:latest
   conda update conda
 
   #Install environment
-   conda install --file requirements.txt
+  conda install snakeviz
+  conda install --file requirements.txt
