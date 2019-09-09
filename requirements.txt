@@ -6,3 +6,4 @@ scipy=1.2.1=py37h7c811a0_0
 mkl=2019.3=199
 cloudpickle
 aiohttp
+gunicorn
